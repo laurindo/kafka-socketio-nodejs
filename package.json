@@ -1,0 +1,25 @@
+{
+  "name": "kafka-socketio-node-angular",
+  "version": "1.0.0",
+  "description": "Project using kafka + sockte.io + nodejs + angular1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": "Daniel Laurindo",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "kafka-node": "^1.6.2",
+    "mongoose": "^4.10.8",
+    "node-restful": "^0.2.6",
+    "nodemon": "^1.11.0",
+    "socket.io": "^2.0.3"
+  },
+  "dependencies": {
+    "express": "^3.5.3",
+    "socket.io": "^2.0.3"
+  }
+}
